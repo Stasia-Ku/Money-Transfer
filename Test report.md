@@ -30,6 +30,6 @@ result_ballance = 2 500 000 000
 
 + MacBook Pro
 + macOS 10.15.4
-+ Java 11.0.7
++ Java 11 
 
 
