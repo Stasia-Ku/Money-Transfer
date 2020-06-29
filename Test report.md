@@ -7,7 +7,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-https://github.com/Stasia-Ku/Money-Transfer/issues/new
+https://github.com/Stasia-Ku/Money-Transfer/issues/1
 
 ## Описание процесса тестирования: ##
 
